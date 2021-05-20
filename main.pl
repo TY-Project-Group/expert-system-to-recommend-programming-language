@@ -432,16 +432,24 @@ describe(objectivec) :-
   write('Choose this if you want to focus on developing iOS or OSX apps only').
 
 describe(swift) :-
-  write('Swift'), nl.
+  write('Swift'), nl,
+  write('A new language developed and used by Apple for MacOSX & iOS'), nl,
+  write('Choose this if you want to focus on developing iOS or OSX apps and you have short development time.').
 
 describe(dart) :-
-  write('Dart'), nl.
+  write('Dart'), nl,
+  write('A new language developed and used by Google for cross-platform development.'), nl,
+  write('Choose this if you want to focus on developing apps for android, iOS, web, windows and macOS with a singe code base.').
 
 describe(html) :-
-  write('HTML & CSS'), nl.
+  write('HTML & CSS'), nl,
+  write('HTML lets you format text, add graphics, create links, input forms, frames and tables, etc., and save it all in a text file that any browser can read and display.'), nl,
+  write('CSS is a language designed to specify the overall appearance of webpages as well as the structure of the text and elements such as images and buttons and their layout.').
 
 describe(mysql) :-
-  write('MySQL'), nl.
+  write('MySQL'), nl,
+  write('It is not a programming language but a relational database management system.'), nl,
+  write('Learn this technology if you are interested in databse management.').
 
 
 % Assigns an answer to questions from the knowledge base
