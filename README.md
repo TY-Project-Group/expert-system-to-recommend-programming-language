@@ -21,3 +21,9 @@ swi-prolog -f main.pl
 
 3. Follow the on-screen instructions, to get a programming language recommendation.
 
+## Result
+
+Sample output screenshot :
+
+<img src="output_screenshot.png">
+
