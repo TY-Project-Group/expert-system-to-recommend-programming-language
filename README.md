@@ -1,4 +1,4 @@
-# Expert System to recommend Programming languages
+# Expert System to Recommend Programming languages
 A basic expert system, written in Prolog, that suggests what programming language one should learn first.
 
 The system is based on the [this](https://drive.google.com/file/d/1yWKp7Tg-0NLQ14_R5jA4ao2kzlAufzEa/view?usp=sharing) infographic.
