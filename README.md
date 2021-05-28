@@ -3,6 +3,8 @@ A basic expert system, written in Prolog, that suggests what programming languag
 
 The system is based on the [this](https://drive.google.com/file/d/1yWKp7Tg-0NLQ14_R5jA4ao2kzlAufzEa/view?usp=sharing) infographic.
 
+<img src="AI_Expert_System.png">
+
 ## Instalation
 
 In order to run this Prolog program you need to have Prolog installed. [Click here](https://www.swi-prolog.org/download/stable) to install.
